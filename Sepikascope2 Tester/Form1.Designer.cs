@@ -358,6 +358,7 @@
             this.button11.TabIndex = 23;
             this.button11.Text = "button11";
             this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
             // 
             // label3
             // 
@@ -390,6 +391,7 @@
             this.button10.TabIndex = 0;
             this.button10.Text = "y";
             this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // button9
             // 
@@ -402,6 +404,7 @@
             this.button9.TabIndex = 0;
             this.button9.Text = "q";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button7
             // 
@@ -414,6 +417,7 @@
             this.button7.TabIndex = 0;
             this.button7.Text = "u";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button6
             // 
@@ -426,6 +430,7 @@
             this.button6.TabIndex = 0;
             this.button6.Text = "R";
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button8
             // 
@@ -438,6 +443,7 @@
             this.button8.TabIndex = 0;
             this.button8.Text = "x";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button4
             // 
@@ -450,6 +456,7 @@
             this.button4.TabIndex = 0;
             this.button4.Text = "{";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 
@@ -462,6 +469,7 @@
             this.button5.TabIndex = 0;
             this.button5.Text = "t";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button12
             // 
@@ -474,6 +482,7 @@
             this.button12.TabIndex = 0;
             this.button12.Text = "p";
             this.button12.UseVisualStyleBackColor = true;
+            this.button12.Click += new System.EventHandler(this.button3_Click);
             // 
             // button13
             // 
@@ -486,6 +495,7 @@
             this.button13.TabIndex = 0;
             this.button13.Text = "z";
             this.button13.UseVisualStyleBackColor = true;
+            this.button13.Click += new System.EventHandler(this.button2_Click);
             // 
             // groupBox5
             // 
@@ -512,6 +522,7 @@
             this.SlewAsync.TabIndex = 19;
             this.SlewAsync.Text = "SLEW ALT AZ ASYNC";
             this.SlewAsync.UseVisualStyleBackColor = true;
+            this.SlewAsync.Click += new System.EventHandler(this.SlewAsync_Click);
             // 
             // AzimuthInput
             // 
@@ -532,6 +543,7 @@
             this.SlewToAltAz.TabIndex = 17;
             this.SlewToAltAz.Text = "SLEW ALT AZ SYNC";
             this.SlewToAltAz.UseVisualStyleBackColor = true;
+            this.SlewToAltAz.Click += new System.EventHandler(this.SlewToAltAz_Click);
             // 
             // AbortSlew
             // 
@@ -544,6 +556,7 @@
             this.AbortSlew.TabIndex = 13;
             this.AbortSlew.Text = "ABORT SLEW";
             this.AbortSlew.UseVisualStyleBackColor = true;
+            this.AbortSlew.Click += new System.EventHandler(this.AbortSlew_Click);
             // 
             // AltitudeInput
             // 
@@ -578,6 +591,7 @@
             this.SetAltAzm.TabIndex = 22;
             this.SetAltAzm.Text = "SET ALT\r\nSET AZM \"deg\"";
             this.SetAltAzm.UseVisualStyleBackColor = true;
+            this.SetAltAzm.Click += new System.EventHandler(this.SetAzm_Click);
             // 
             // CheckAlt
             // 
@@ -588,6 +602,7 @@
             this.CheckAlt.TabIndex = 20;
             this.CheckAlt.Text = "POLL Alt \"deg\"";
             this.CheckAlt.UseVisualStyleBackColor = true;
+            this.CheckAlt.Click += new System.EventHandler(this.CheckAlt_Click);
             // 
             // AltitudeBox
             // 
@@ -608,6 +623,7 @@
             this.CheckAzm.TabIndex = 19;
             this.CheckAzm.Text = "POLL Azm \"deg\"";
             this.CheckAzm.UseVisualStyleBackColor = true;
+            this.CheckAzm.Click += new System.EventHandler(this.CheckAzm_Click);
             // 
             // AzimuthBox
             // 

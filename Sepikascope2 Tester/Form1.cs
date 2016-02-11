@@ -343,11 +343,6 @@ namespace ASCOM.Sepikascope2Tester
             AltitudeBox.Text = driver.Altitude.ToString();
         }
 
-        private void MVXS_Left_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button11_Click(object sender, EventArgs e)
         {
             string stringOutgoing = "6";

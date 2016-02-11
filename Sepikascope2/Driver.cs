@@ -177,6 +177,21 @@ namespace ASCOM.Sepikascope2
             //TODO: Implement your additional construction here
 
             tl.LogMessage("Telescope", "Completed initialisation");
+
+            actionsArrayList = new ArrayList();
+
+            //NOTE : DOUBLE CHECK - EACH ONE
+            //       UPDATE LIST!
+
+            //actionsArrayList.Add("CanMoveAxis"); //can move Alt, Azm
+            //actionsArrayList.Add("MoveAxis"); //not sure how to implement
+            actionsArrayList.Add("SlewToAltAz"); //functional
+            //actionsArrayList.Add("Slewing"); //untested, not written?
+            actionsArrayList.Add("AbortSlew"); //functional
+            actionsArrayList.Add("Altitude"); //functional
+            actionsArrayList.Add("Azimuth");  //functional
+            //actionsArrayList.Add("SyncToAltAz"); //functional
+            actionsArrayList.Add("SupportedActions"); //redundant
         }
 
 

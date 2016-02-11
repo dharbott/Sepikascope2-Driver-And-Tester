@@ -1,6 +1,7 @@
 C:\Users\bububear\Documents\Visual Studio 2013\Projects\Sepikascope2\Sepikascope2 Tester\bin\Debug\ASCOM.Sepikascope2Tester.Test.exe.config
 C:\Users\bububear\Documents\Visual Studio 2013\Projects\Sepikascope2\Sepikascope2 Tester\bin\Debug\ASCOM.Sepikascope2Tester.Test.exe
 C:\Users\bububear\Documents\Visual Studio 2013\Projects\Sepikascope2\Sepikascope2 Tester\bin\Debug\ASCOM.Sepikascope2Tester.Test.pdb
+C:\Users\bububear\Documents\Visual Studio 2013\Projects\Sepikascope2\Sepikascope2 Tester\obj\x86\Debug\Sepikascope2 Tester.csprojResolveAssemblyReference.cache
 C:\Users\bububear\Documents\Visual Studio 2013\Projects\Sepikascope2\Sepikascope2 Tester\obj\x86\Debug\ASCOM.Sepikascope2Tester.Form1.resources
 C:\Users\bububear\Documents\Visual Studio 2013\Projects\Sepikascope2\Sepikascope2 Tester\obj\x86\Debug\ASCOM.Sepikascope2Tester.Properties.Resources.resources
 C:\Users\bububear\Documents\Visual Studio 2013\Projects\Sepikascope2\Sepikascope2 Tester\obj\x86\Debug\Sepikascope2 Tester.csproj.GenerateResource.Cache

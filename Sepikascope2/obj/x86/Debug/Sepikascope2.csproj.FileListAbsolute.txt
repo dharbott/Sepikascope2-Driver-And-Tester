@@ -2,6 +2,7 @@ C:\Users\bububear\Documents\Visual Studio 2013\Projects\Sepikascope2\Sepikascope
 C:\Users\bububear\Documents\Visual Studio 2013\Projects\Sepikascope2\Sepikascope2\bin\x86\Debug\ASCOM.Sepikascope2.Telescope.dll
 C:\Users\bububear\Documents\Visual Studio 2013\Projects\Sepikascope2\Sepikascope2\bin\x86\Debug\ASCOM.Sepikascope2.Telescope.pdb
 C:\Users\bububear\Documents\Visual Studio 2013\Projects\Sepikascope2\Sepikascope2\bin\x86\Debug\ASCOM.Sepikascope2.Telescope.tlb
+C:\Users\bububear\Documents\Visual Studio 2013\Projects\Sepikascope2\Sepikascope2\obj\x86\Debug\Sepikascope2.csprojResolveAssemblyReference.cache
 C:\Users\bububear\Documents\Visual Studio 2013\Projects\Sepikascope2\Sepikascope2\obj\x86\Debug\ASCOM.Sepikascope2.Properties.Resources.resources
 C:\Users\bububear\Documents\Visual Studio 2013\Projects\Sepikascope2\Sepikascope2\obj\x86\Debug\ASCOM.Sepikascope2.SetupDialogForm.resources
 C:\Users\bububear\Documents\Visual Studio 2013\Projects\Sepikascope2\Sepikascope2\obj\x86\Debug\Sepikascope2.csproj.GenerateResource.Cache
